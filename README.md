@@ -4,7 +4,7 @@
   ![itamarpambo751 GitHub stats](https://github-readme-stats.vercel.app/api?username=itamarpambo751&show_icons=true&theme=tokyonight)
 
   ### Minhas Skills:
-<div style="">
+<div>
       <img alt="HTML5" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="vueJS" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
       <img alt="CSS" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
