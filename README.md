@@ -1,6 +1,6 @@
 ### 👋 👋 Olá, eu sou Itamar Pambo, desenvolvedor de software fullstack 🌐Web & 📱Mobile!👋
 
-🎍 Seja bem-vindo ao meu github! <br/><br/>
+🎍 Seja bem-vindo em meu github, fico feliz em recebê-lo!😊 <br/><br/>
   ![itamarpambo751 GitHub stats](https://github-readme-stats.vercel.app/api?username=itamarpambo751&show_icons=true&theme=tokyonight)
 
   ### Confortável em tecnologias como:
