@@ -3,8 +3,8 @@
 🎍 Seja bem-vindo em meu github, fico feliz em recebê-lo!😊 <br/><br/>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itamarpambo751&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamarpambo751&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=itamarpambo751&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamarpambo751&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 ### Confortável em tecnologias como:
