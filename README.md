@@ -86,20 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   Minhas estatisticas :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=itamarpambo751&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
  
  
