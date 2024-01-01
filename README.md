@@ -1,12 +1,18 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Itamar+Mateus+Pambo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Itamar+Mateus+Pambo;É+um+prazer+recebê-lo+(a);Eu+sou+desenvolvedor+Full-Stack;Seja+Bem-Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
-###
 
-<p align="left">I'm from Angola<br><br>- 🔭 I am working as a software developer at UNIKAMBAS-UK ...<br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I develop for the web ...</p>
+### Bem-Vindo (a) ao meu Perfil 👋
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+- 📫 Contacte-me pelo meu [Linkedin](https://linkedin.com/in/itamarpambo) ou pelo Email itamarpambo.dev@gmail.com
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=itamarpambo751&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Itamar Mateus Pedro Pambo" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamarpambo751&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -82,7 +88,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas estatisticas :</h3>
 
 ###
 
@@ -91,3 +97,9 @@
 </div>
 
 ###
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+ 
+ 
