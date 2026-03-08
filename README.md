@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Itamar+Mateus+Pambo;É+um+prazer+recebê-lo;Eu+sou+desenvolvedor+Full-Stack;Deixe+suas+estrelinhas+nos+repositórios!+VALEU!)
 
 
-### Bem-Vindo (a) ao meu Perfil 👋
+### Bem-Vindo (a) ao meu Perfil 
 
 
 - 📫 Contacte-me pelo meu [Linkedin](https://linkedin.com/in/itamarpambo) ou pelo Email itamarpambo.dev@gmail.com
